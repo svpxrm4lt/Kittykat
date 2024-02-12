@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #F5EEE6;
+}
+
+.header_text {
+    font-family: 'Nunino';
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.tenor-gif-embed {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
